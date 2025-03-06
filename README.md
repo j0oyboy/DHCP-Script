@@ -60,7 +60,7 @@ This PowerShell script automates the installation, configuration, and management
 This project is open-source and available under the MIT License.
 
 ## Author
-Developed by **Joy**
+Developed by **Souhaib**
 
 For any issues, feel free to create an issue on [GitHub](https://github.com/j0oyboy).
 
