@@ -1,6 +1,9 @@
 # Script v3
 chcp 65001 > $null
 
+#Change the window Name
+$host.UI.RawUI.WindowTitle = "DHCP Script"
+
 # Change the Window Size
 [Console]::SetWindowSize(95, 33)
 
