@@ -19,6 +19,7 @@ This PowerShell script automates the installation, configuration, and management
 ## Prerequisites
 - Windows Server with administrative privileges
 - PowerShell execution policy set to allow script execution
+  
   ```powershell
   Set-ExecutionPolicy RemoteSigned -Scope Process
   ```
@@ -26,14 +27,17 @@ This PowerShell script automates the installation, configuration, and management
 
 ## Installation
 1. Clone this repository:
+   
    ```sh
    git clone https://github.com/j0oyboy/DHCP-Script.git
    ```
-2. Navigate to the script folder:
+3. Navigate to the script folder:
+   
    ```sh
    cd DHCP-Script\V3 Last Version
    ```
-3. Run the script in PowerShell:
+5. Run the script in PowerShell:
+   
    ```powershell
    .\dhcp_script.ps1
    ```
