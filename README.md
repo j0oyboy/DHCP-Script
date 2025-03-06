@@ -30,7 +30,7 @@ This PowerShell script automates the installation, configuration, and management
    ```
 2. Navigate to the script folder:
    ```sh
-   cd DHCP-Script
+   cd DHCP-Script\V3 Last Version
    ```
 3. Run the script in PowerShell:
    ```powershell
