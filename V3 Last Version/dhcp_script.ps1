@@ -1,8 +1,8 @@
-﻿# Script v3
+# Script v3
 chcp 65001 > $null
 
 # Change the Window Size
-[Console]::SetWindowSize(94, 33)
+[Console]::SetWindowSize(95, 33)
 
 # Function to center text in the console
 function Center-Text($text) {
@@ -145,7 +145,7 @@ While ($true){
 
             } if ($OptionChoice -eq "0") {
                 clear
-                [Console]::SetWindowSize(94, 33)
+                [Console]::SetWindowSize(95, 33)
                 #foreach ($line in $Banner){  Write-host (Center-Text $line) -ForegroundColor DarkRed }
             } else {
                 clear
