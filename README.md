@@ -52,8 +52,9 @@ This PowerShell script automates the installation, configuration, and management
 | 5 | Create a DHCP scope |
 | 6 | Create an exclusion range |
 | 7 | Configure scope options (gateway, DNS) |
-| 8 | Open the GitHub repository |
-| 9 | Exit the script |
+| 8 |  Remove Everything |
+| 9 | Open the GitHub repository |
+| 10 | Exit the script |
 
 ## Removing DHCP Configurations
 To remove a DHCP scope:
