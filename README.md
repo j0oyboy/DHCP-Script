@@ -2,7 +2,9 @@
 
 ## Overview
 This PowerShell script automates the installation, configuration, and management of a DHCP server on a Windows machine. It provides an interactive menu for tasks such as installing the DHCP role, creating scopes, configuring options, and managing security settings.
-![image](https://github.com/user-attachments/assets/fce5f373-675b-4801-af4e-2b169c346164)
+
+![image](https://github.com/user-attachments/assets/fbfda4cf-5b24-4771-9017-ae1bf9c02819)
+
 
 ## Features
 - Install the DHCP server role
