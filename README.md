@@ -56,16 +56,6 @@ This PowerShell script automates the installation, configuration, and management
 | 9 | Open the GitHub repository |
 | 10 | Exit the script |
 
-## Removing DHCP Configurations
-To remove a DHCP scope:
-```powershell
-Remove-DhcpServerv4Scope -ScopeId <ScopeID> -Confirm:$false
-```
-To remove an exclusion range:
-```powershell
-Remove-DhcpServerv4ExclusionRange -ScopeId <ScopeID> -StartRange <StartIP> -EndRange <EndIP> -Confirm:$false
-```
-
 ## License
 This project is open-source and available under the MIT License.
 
