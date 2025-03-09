@@ -46,14 +46,14 @@ This PowerShell script automates the installation, configuration, and management
 | Option | Description |
 |--------|-------------|
 | 1 | Install DHCP server role |
-| 2 | Check DHCP service installation status |
-| 3 | Start the DHCP service |
+| 2 | Check DHCP installation status |
+| 3 | Start the DHCP service  |
 | 4 | Add DHCP server to security group |
 | 5 | Create a DHCP scope |
 | 6 | Create an exclusion range |
-| 7 | Configure scope options (gateway, DNS) |
-| 8 |  Remove Everything |
-| 9 | Open the GitHub repository |
+| 7 | Configure Scope Options |
+| 8 |  Remove DHCP Configuration |
+| 9 | View Active Scopes and Configuration |
 | 10 | Exit the script |
 
 ## License
