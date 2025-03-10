@@ -29,17 +29,17 @@ This PowerShell script automates the installation, configuration, and management
 1. Clone this repository:
    
    ```sh
-   git clone https://github.com/j0oyboy/DHCP-Script.git
+   https://github.com/j0oyboy/DHCP_Server_Manager.git
    ```
 3. Navigate to the script folder:
    
    ```sh
-   cd DHCP-Script\V3 Last Version
+   cd DHCP_Server_Manager\V3.1
    ```
 5. Run the script in PowerShell:
    
    ```powershell
-   .\dhcp_script.ps1
+   .\Installation_DHCP.ps1
    ```
 
 ## Menu Options
